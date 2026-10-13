@@ -1,4 +1,4 @@
-with open("AMALIYOT.txt",'a') as file:
+with open("OY3/9-dars/amaliyot/AMALIYOT.txt",'a') as file:
 
     ID=int(input("ID: "))
     ism=input("ism: ")
